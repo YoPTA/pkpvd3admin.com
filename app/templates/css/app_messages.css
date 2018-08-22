@@ -1,0 +1,35 @@
+/*
+===== ERROR Begin
+*/
+
+div.app_message_type_error {
+    border: 1px solid #ffa000;
+    padding: 10px;
+}
+
+i.app_message_type_error{
+    font-size: 1.2em;
+    color: #ffa000;
+}
+
+/*
+===== ERROR End
+*/
+
+/*
+===== SUCCESS Begin
+*/
+
+div.app_message_type_success {
+    border: 1px solid #9dde8c;
+    padding: 10px;
+}
+
+i.app_message_type_success{
+    font-size: 1.2em;
+    color: #9dde8c;
+}
+
+/*
+===== SUCCESS End
+*/
